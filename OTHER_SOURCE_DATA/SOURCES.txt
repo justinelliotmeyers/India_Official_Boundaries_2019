@@ -3,3 +3,7 @@ https://kgis.ksrsac.in/kgisdocuments/K-GIS_Data_Share2019/PDF_KML_SHP_UptoJuly/S
 https://kgis.ksrsac.in/kgisdocuments/K-GIS_Data_Share2019/PDF_KML_SHP/Shapefiles/m-shp/District.rar
 
 https://kgis.ksrsac.in/kgis/downloads.aspx
+
+
+
+https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/master/Chennai/Wards.geojson
